@@ -13,6 +13,9 @@
                                 else if(test.value == "10703060"){
                     window.location.href="https://drive.google.com/uc?id=1p16eTnI5C2wFfsBZhfELN6LZMlWXO_Rh"
                }
+                                         else if(test.value == "107030603"){
+                    window.location.href="jakir.html"
+               }
             else{
                  alert("invalid Passport")
             }
