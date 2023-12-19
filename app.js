@@ -16,6 +16,9 @@
                                          else if(test.value == "107030603"){
                     window.location.href="jakir.html"
                }
+                                                     else if(test.value == "779966"){
+                    window.location.href="mostafiz.html"
+               }
             else{
                  alert("invalid Passport")
             }
