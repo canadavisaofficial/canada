@@ -10,7 +10,11 @@
                        else if(test.value == "EH0104602"){
                     window.location.href="https://drive.google.com/uc?id=1NrJqrLKJxQoli80QKaBrQBMZluEdEM0r"
                }
-                                else if(test.value == "10703060"){
+                    else if(test.value == "A00988943"){
+                    window.location.href="https://drive.google.com/uc?id=1zeXpvdGWzdWN5GEx_o9muz0hlJZedNeT"
+               }
+                       
+                       else if(test.value == "10703060"){
                     window.location.href="https://drive.google.com/uc?id=1p16eTnI5C2wFfsBZhfELN6LZMlWXO_Rh"
                }
                                          else if(test.value == "107030603"){
