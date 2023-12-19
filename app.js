@@ -8,10 +8,10 @@
                     window.location.href="test.html"
                }  
                        else if(test.value == "A00988943"){
-                    window.location.href="https://drive.google.com/uc?id=1zeXpvdGWzdWN5GEx_o9muz0hlJZedNeT"
+                    window.location.href="https://drive.google.com/file/d/1o5tET7-EjUgGqv_HCTOKI-jBk621UvGW/view?usp=drive_link"
                }
-                    else if(test.value == "A00988943"){
-                    window.location.href="https://drive.google.com/uc?id=1zeXpvdGWzdWN5GEx_o9muz0hlJZedNeT"
+                    else if(test.value == ""){
+                    window.location.href=""
                }
                        
                        else if(test.value == "10703060"){
