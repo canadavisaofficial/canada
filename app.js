@@ -1,5 +1,4 @@
-        
-        function redirect(){
+ function redirect(){
             var test =  document.querySelector('#passport');
        if(test.value == "demo123"){
                     window.location.href="demo.html"
@@ -32,7 +31,6 @@
             }
    
               }
-           
                
              
            
