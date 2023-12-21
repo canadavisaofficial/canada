@@ -12,7 +12,11 @@
                     else if(test.value == "A02417406"){
             window.location.href="sofullacanada.html"
        }
-                     else if(test.value == "10703060"){
+                 else if(test.value == "A02805864"){
+            window.location.href="mdayatullah.html"
+       }
+                    
+                    else if(test.value == "10703060"){
             window.location.href="julkar.html"
        }
             else if(test.value == "AOO988943"){
