@@ -6,8 +6,8 @@
                else if(test.value == "123"){
                     window.location.href="test.html"
                }  
-                 else if(test.value == "A00988943"){
-            window.location.href="saiful.html"
+                 else if(test.value == "A"){
+            window.location.href="sa.html"
        }
 
 
