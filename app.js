@@ -9,9 +9,9 @@ if(test.value == "demo123"){
                else if(test.value == "A00988943"){
             window.location.href="saiful.html"
        }
-            else if(test.value == ""){
-            window.location.href=""
-       }
+       //      else if(test.value == ""){
+       //      window.location.href=""
+       // }
 
                     else if(test.value == "A02417406"){
             window.location.href="https://drive.google.com/uc?id=1WE6Cyn7FhexfmiuXF6uggkF7174EWcsw"
