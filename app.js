@@ -12,6 +12,9 @@
                     else if(test.value == "A02417406"){
             window.location.href="sofullacanada.html"
        }
+                     else if(test.value == "10703060"){
+            window.location.href="julkar.html"
+       }
                   else if(test.value == "A02417406"){
             window.location.href="https://drive.google.com/uc?id=1WE6Cyn7FhexfmiuXF6uggkF7174EWcsw"
        }
