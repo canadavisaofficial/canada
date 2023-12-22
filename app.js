@@ -12,8 +12,6 @@
                  else if(test.value == "A"){
             window.location.href="sa.html"
        }
-
-
                    else if(test.value == "A00988943"){
             window.location.href="mdsaifulislamcanadavisa.html"
        }
