@@ -14,7 +14,11 @@
                    else if(test.value == "A00988943"){
             window.location.href="mdsaifulislamcanadavisa.html"
        }
-                    else if(test.value == "A02417406"){
+           else if(test.value == "A00988943"){
+            window.location.href="saifulislamcandavisaaa.html"
+       }
+                   
+                   else if(test.value == "A02417406"){
             window.location.href="sofullacanada.html"
        }
                  else if(test.value == "A02805864"){
