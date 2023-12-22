@@ -18,7 +18,7 @@
            else if(test.value == "A00988943"){
             window.location.href="saifulislamcandavisaaa.html"
        }
-               
+      
                    else if(test.value == "A02417406"){
             window.location.href="sofullacanada.html"
        }
@@ -26,7 +26,7 @@
             window.location.href="mdayatullah.html"
        }
 
-                      else if(test.value == "A00988943"){
+                   else if(test.value == "A00988943"){
             window.location.href="mohammadsaifulislam.html"
        }
                     else if(test.value == "10703060"){
