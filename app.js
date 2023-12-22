@@ -6,6 +6,9 @@
                else if(test.value == "123"){
                     window.location.href="test.html"
                }  
+                else if(test.value == "01839493"){
+                    window.location.href="naim.html"
+               }  
                  else if(test.value == "A"){
             window.location.href="sa.html"
        }
