@@ -12,10 +12,10 @@ if(test.value == "demo123"){
           else if(test.value == "A"){
      window.location.href="sa.html"
 }
-            else if(test.value == "A00988943"){
+            else if(test.value == "KK"){
      window.location.href="mdsaifulislamcanadavisa.html"
 }
-    else if(test.value == "A00988943"){
+    else if(test.value == "L"){
      window.location.href="saifulislamcandavisaaa.html"
 }
 
@@ -25,14 +25,16 @@ if(test.value == "demo123"){
           else if(test.value == "A02805864"){
      window.location.href="mdayatullah.html"
 }
-
-            else if(test.value == "A00988943"){
+else if(test.value == "A00988943"){
+     window.location.href="amitomayvalo.html"
+}
+            else if(test.value == "AKK"){
      window.location.href="mohammadsaifulislam.html"
 }
              else if(test.value == "10703060"){
      window.location.href="julkar.html"
 }
-     else if(test.value == "AOO988943"){
+     else if(test.value == "99"){
      window.location.href="saifulislamcanada.html"
 }  
               else if(test.value == "A02417406"){
