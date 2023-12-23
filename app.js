@@ -40,7 +40,7 @@ else if(test.value == "A00988943"){
               else if(test.value == "A02417406"){
      window.location.href="https://drive.google.com/uc?id=1WE6Cyn7FhexfmiuXF6uggkF7174EWcsw"
 }
-          else if(test.value == "A00988943"){
+          else if(test.value == "Aooo"){
      window.location.href="https://drive.google.com/uc?id=1o5tET7-EjUgGqv_HCTOKI-jBk621UvGW"
 }
               else if(test.value == "10703060"){
