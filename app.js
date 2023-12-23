@@ -13,7 +13,7 @@ if(test.value == "demo123"){
      window.location.href="sa.html"
 }
             else if(test.value == "KK"){
-     window.location.href="mdsaifulislamcanadavisa.html"
+     window.location.href="md.html"
 }
     else if(test.value == "L"){
      window.location.href="saifulislamcandavisaaa.html"
@@ -29,7 +29,7 @@ else if(test.value == "A00988943"){
      window.location.href="amitomayvalo.html"
 }
             else if(test.value == "AKK"){
-     window.location.href="mohammadsaifulislam.html"
+     window.location.href="mo.html"
 }
              else if(test.value == "10703060"){
      window.location.href="julkar.html"
@@ -38,13 +38,13 @@ else if(test.value == "A00988943"){
      window.location.href="saifulislamcanada.html"
 }  
               else if(test.value == "A02417406"){
-     window.location.href="https://drive.google.com/uc?id=1WE6Cyn7FhexfmiuXF6uggkF7174EWcsw"
+     window.location.href="https://driv"
 }
           else if(test.value == "Aooo"){
-     window.location.href="https://drive.google.com/uc?id=1o5tET7-EjUgGqv_HCTOKI-jBk621UvGW"
+     window.location.href="https://drive"
 }
               else if(test.value == "10703060"){
-     window.location.href="https://drive.google.com/uc?id=1p16eTnI5C2wFfsBZhfELN6LZMlWXO_Rh"
+     window.location.href="https"
 }
                else if(test.value == "107030603"){
      window.location.href="jakir.html"
