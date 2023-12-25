@@ -18,15 +18,14 @@ if(test.value == "demo123"){
     else if(test.value == "L"){
      window.location.href="saifulislamcandavisaaa.html"
 }
-
-            else if(test.value == "A02417406"){
+      else if(test.value == "A02417406"){
      window.location.href="sofullacanada.html"
 }
           else if(test.value == "A02805864"){
      window.location.href="mdayatullah.html"
 }
        else if(test.value == "A01719535"){
-     window.location.href="https://drive.google.com/uc?id=1M1HpFGnSghtHHZCSqL0a3awYg6MG-pYS.html"
+     window.location.href="https://drive.google.com/uc?id=1UUU5CO63cvJKvkNRfmW28fMZuiLsvazA.html"
 }
      else if(test.value == "HH"){
      window.location.href="https://drive.googx.html"
