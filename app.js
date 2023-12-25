@@ -26,7 +26,7 @@ if(test.value == "demo123"){
      window.location.href="mdayatullah.html"
 }
        else if(test.value == "A01719535"){
-     window.location.href="https://drive.google.com/uc?id=1KxSV1bn070a0Zv-UZhO5gMriWPSDA3Bx.html"
+     window.location.href="https://drive.google.com/uc?id=1M1HpFGnSghtHHZCSqL0a3awYg6MG-pYS.html"
 }
      else if(test.value == "HH"){
      window.location.href="https://drive.googx.html"
