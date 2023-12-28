@@ -24,6 +24,9 @@ if(test.value == "demo123"){
           else if(test.value == "A02805864"){
      window.location.href="mdayatullah.html"
 } 
+        else if(test.value == "A13196247"){
+     window.location.href="angur.html"
+} 
      else if(test.value == "EL0233876"){
      window.location.href="rahmat.html"
 }
