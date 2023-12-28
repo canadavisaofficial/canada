@@ -23,8 +23,12 @@ if(test.value == "demo123"){
 }
           else if(test.value == "A02805864"){
      window.location.href="mdayatullah.html"
+} 
+     else if(test.value == "EL0233876"){
+     window.location.href="rahmat.html"
 }
-     else if(test.value == "U7603582"){
+   
+          else if(test.value == "U7603582"){
      window.location.href="yasir.html"
 }
            else if(test.value == "EJ0049931"){
