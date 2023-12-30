@@ -24,14 +24,17 @@ if(test.value == "demo123"){
           else if(test.value == "A02805864"){
      window.location.href="mdayatullah.html"
 }
-     else if(test.value == "BF0628390"){
+     else if(test.value == "EF0877210"){
      window.location.href="abulkalam.html"
 }          
       else if(test.value == "EB0197028"){
      window.location.href="kasem.html"
+}
+     else if(test.value == "EHO367528"){
+     window.location.href="khalek.html"
 } 
-           else if(test.value == "EHO367528"){
-     window.location.href="khaleque.html"
+           else if(test.value == "E"){
+     window.location.href="k.html"
 } 
       else if(test.value == "A13196247"){
      window.location.href="angur.html"
