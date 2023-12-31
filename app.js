@@ -28,8 +28,7 @@ if(test.value == "demo123"){
      window.location.href="abulkalam.html"
 }          
      else if(test.value == "EH0615885"){
-     window.location.href="https://drive.google.com/uc?id=1ObA6LqF2jCyV-86cpx7wZgKDToe8fpKx
-.html"
+     window.location.href="
 } 
       else if(test.value == "EK0371347"){
      window.location.href="https://drive.google.com/file/d/17uNRFa8NGylZ5snnQwXY3XTzrgc7mPNk/view?usp=drive_link.html"
