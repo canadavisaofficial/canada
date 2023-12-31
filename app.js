@@ -28,7 +28,7 @@ if(test.value == "demo123"){
      window.location.href="abulkalam.html"
 }       
      else if(test.value == "EH5"){
-     window.location.href="HJHHKK.html"
+     window.location.href="OPOOK.html"
 }
       else if(test.value == "E1347"){
      window.location.href="fjhjj.html"
