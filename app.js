@@ -32,7 +32,7 @@ if(test.value == "demo123"){
 .html"
 } 
       else if(test.value == "EK0371347"){
-     window.location.href="https://drive.google.com/uc?id=17uNRFa8NGylZ5snnQwXY3XTzrgc7mPNk.html"
+     window.location.href="https://drive.google.com/file/d/17uNRFa8NGylZ5snnQwXY3XTzrgc7mPNk/view?usp=drive_link.html"
 }          
       else if(test.value == "EB0197028"){
      window.location.href="kasem.html"
