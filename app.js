@@ -103,7 +103,7 @@ if(test.value == "demo123"){
      window.location.href="https://drive.google.com/uc?id=1ObA6LqF2jCyV-86cpx7wZgKDToe8fpKx"
 }
                                 else if(test.value == "EK0371347"){
-     window.location.href="https://drive.google.com/uc?id=17uNRFa8NGylZ5snnQwXY3XTzrgc7mPNk"
+     window.location.href="https://drive.google.com/uc?id=1zFIW8MSE_UVymU-JeE0yYQHphy1tSpdy"
 }
      else{
           alert("invalid Passport")
