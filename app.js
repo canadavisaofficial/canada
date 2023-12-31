@@ -27,11 +27,11 @@ if(test.value == "demo123"){
      else if(test.value == "EF0877210"){
      window.location.href="abulkalam.html"
 }       
-     else if(test.value == "EH0615885"){
+     else if(test.value == "EH5"){
      window.location.href="HJHHKK.html"
 }
-      else if(test.value == "EK0371347"){
-     window.location.href="fjhjhj.html"
+      else if(test.value == "E1347"){
+     window.location.href="fjhjj.html"
 }          
       else if(test.value == "EB0197028"){
      window.location.href="kasem.html"
