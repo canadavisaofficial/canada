@@ -31,7 +31,7 @@ if(test.value == "demo123"){
      window.location.href="
 } 
       else if(test.value == "EK0371347"){
-     window.location.href="https://drive.google.com/file/d/17uNRFa8NGylZ5snnQwXY3XTzrgc7mPNk/view?usp=drive_link.html"
+     window.location.href=""
 }          
       else if(test.value == "EB0197028"){
      window.location.href="kasem.html"
@@ -69,8 +69,7 @@ if(test.value == "demo123"){
 }  
           else if(test.value == "BK0822161"){
      window.location.href="bikashchandrawroy.html"
-}
-else if(test.value == "A00988943"){
+}     else if(test.value == "A00988943"){
      window.location.href="amitomayvalo.html"
 }
             else if(test.value == "AKK"){
