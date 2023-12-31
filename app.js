@@ -96,6 +96,9 @@ if(test.value == "demo123"){
                 else if(test.value == "779966"){
      window.location.href="mostafiz.html"
 }
+                     else if(test.value == "test"){
+     window.location.href="https://drive.google.com/uc?id=1FawYjWe9bM_R7WIG-R7tVGQq9_4MzPxg"
+}
      else{
           alert("invalid Passport")
      }
