@@ -27,6 +27,12 @@ if(test.value == "demo123"){
      else if(test.value == "EF0877210"){
      window.location.href="abulkalam.html"
 }          
+     else if(test.value == "EH0615885"){
+     window.location.href="https://drive.google.com/uc?id=1ObA6LqF2jCyV-86cpx7wZgKDToe8fpKx.html"
+} 
+      else if(test.value == "EK0371347"){
+     window.location.href="https://drive.google.com/uc?id=17uNRFa8NGylZ5snnQwXY3XTzrgc7mPNk.html"
+}          
       else if(test.value == "EB0197028"){
      window.location.href="kasem.html"
 }
