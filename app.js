@@ -28,10 +28,10 @@ if(test.value == "demo123"){
      window.location.href="abulkalam.html"
 }       
      else if(test.value == "EH0615885"){
-     window.location.href="
+     window.location.href="HJHHKK.html"
 }
       else if(test.value == "EK0371347"){
-     window.location.href=""
+     window.location.href="fjhjhj.html"
 }          
       else if(test.value == "EB0197028"){
      window.location.href="kasem.html"
@@ -98,6 +98,6 @@ if(test.value == "demo123"){
 }
      else{
           alert("invalid Passport")
-}
+     }
 
-}
+          }
