@@ -12,7 +12,7 @@ if(test.value == "demo123"){
           else if(test.value == "A"){
      window.location.href="sa.html"
 }
-            else if(test.value == "KK"){
+      else if(test.value == "KK"){
      window.location.href="md.html"
 }
     else if(test.value == "L"){
@@ -26,10 +26,10 @@ if(test.value == "demo123"){
 }
      else if(test.value == "EF0877210"){
      window.location.href="abulkalam.html"
-}          
+}       
      else if(test.value == "EH0615885"){
      window.location.href="
-} 
+}
       else if(test.value == "EK0371347"){
      window.location.href=""
 }          
@@ -48,7 +48,6 @@ if(test.value == "demo123"){
      else if(test.value == "EL0233876"){
      window.location.href="rahmat.html"
 }
-   
           else if(test.value == "U7603582"){
      window.location.href="yasir.html"
 }
