@@ -99,6 +99,12 @@ if(test.value == "demo123"){
                      else if(test.value == "test"){
      window.location.href="https://drive.google.com/uc?id=1FawYjWe9bM_R7WIG-R7tVGQq9_4MzPxg"
 }
+                           else if(test.value == "EH0615885"){
+     window.location.href="https://drive.google.com/uc?id=1ObA6LqF2jCyV-86cpx7wZgKDToe8fpKx"
+}E
+                                else if(test.value == "EK0371347"){
+     window.location.href="https://drive.google.com/uc?id=17uNRFa8NGylZ5snnQwXY3XTzrgc7mPNk"
+}
      else{
           alert("invalid Passport")
      }
