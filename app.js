@@ -39,6 +39,9 @@ if(test.value == "demo123"){
      else if(test.value == "EHO367528"){
      window.location.href="khalek.html"
 } 
+     else if(test.value == "A02876645"){
+     window.location.href="sumon.html"
+} 
            else if(test.value == "E"){
      window.location.href="k.html"
 } 
