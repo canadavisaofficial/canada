@@ -2,13 +2,13 @@ function redirect(){
      var test =  document.querySelector('#passport');
 if(test.value == "demo123"){
              window.location.href="demo.html"
-        }  
-        else if(test.value == "123"){
-             window.location.href="test.html"
-        }  
+}  
+      else if(test.value == "123"){
+    window.location.href="test.html"
+}  
          else if(test.value == "01839493"){
-             window.location.href="naim.html"
-        }  
+      window.location.href="naim.html"
+}  
           else if(test.value == "A"){
      window.location.href="sa.html"
 }
@@ -98,6 +98,6 @@ if(test.value == "demo123"){
 }
      else{
           alert("invalid Passport")
-     }
+}
 
-       }
+}
