@@ -21,6 +21,9 @@ if(test.value == "demo123"){
       else if(test.value == "A02417406"){
      window.location.href="sofullacanada.html"
 }
+     else if(test.value == "EG0671031"){
+     window.location.href="sohidul.html"
+}
           else if(test.value == "A02805864"){
      window.location.href="mdayatullah.html"
 }
