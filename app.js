@@ -63,8 +63,8 @@ if(test.value == "demo123"){
            else if(test.value == "EJ0049931"){
      window.location.href="morshed.html"
 }
-    else if(test.value == "A07672267"){
-     window.location.href="gazisujan.html"
+    else if(test.value == "A0767"){
+     window.location.href="gazjan.html"
 }
        else if(test.value == "A01719535"){
      window.location.href="miraz.html"
@@ -72,8 +72,8 @@ if(test.value == "demo123"){
      else if(test.value == "HH"){
      window.location.href="https://drive.googx.html"
 }
-          else if(test.value == "A05026326"){
-     window.location.href="taslima.html"
+          else if(test.value == "A0326"){
+     window.location.href="tama.html"
 }  
           else if(test.value == "BK0822161"){
      window.location.href="bikashchandrawroy.html"
