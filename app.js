@@ -23,6 +23,9 @@ if(test.value == "demo123"){
 }
        else if(test.value == "A12856853"){
      window.location.href="tuhin.html"
+} 
+     else if(test.value == "EE0036404"){
+     window.location.href="majedur.html"
 }    
      else if(test.value == "EG0671031"){
      window.location.href="sohidul.html"
