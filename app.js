@@ -29,6 +29,9 @@ if(test.value == "demo123"){
 }
      else if(test.value == "EF0877210"){
      window.location.href="abulkalam.html"
+}
+     else if(test.value == "EG0033773"){
+     window.location.href="tazrul.html"
 } 
      else if(test.value == "EF0804333"){
      window.location.href="ali.html"
