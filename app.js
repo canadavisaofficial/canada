@@ -29,8 +29,11 @@ if(test.value == "demo123"){
 }
      else if(test.value == "EF0877210"){
      window.location.href="abulkalam.html"
-}  
-      else if(test.value == "BR0773018"){
+} 
+       else if(test.value == "EK0676281"){
+     window.location.href="sujat.html"
+}   
+     else if(test.value == "BR0773018"){
      window.location.href="zalal.html"
 }       
      else if(test.value == "EH5"){
