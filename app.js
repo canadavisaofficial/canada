@@ -63,8 +63,8 @@ if(test.value == "demo123"){
      else if(test.value == "BR0773018"){
      window.location.href="zalal.html"
 }   
-      else if(test.value == "EG0460831"){
-     window.location.href="https://drive.google.com/uc?id=1Qh_ZcjS6gk2n-1JjtiTL0wLQmhkLxkq6.html"
+      else if(test.value == "E31"){
+     window.location.href="DFDFDF.html"
 }
      else if(test.value == "EH5"){
      window.location.href="OPOOK.html"
@@ -141,7 +141,10 @@ if(test.value == "demo123"){
                      else if(test.value == "test"){
      window.location.href="https://drive.google.com/uc?id=1FawYjWe9bM_R7WIG-R7tVGQq9_4MzPxg"
 }
-                           else if(test.value == "EH0615885"){
+              else if(test.value == "EG0460831"){
+     window.location.href="https://drive.google.com/uc?id=1Qh_ZcjS6gk2n-1JjtiTL0wLQmhkLxkq6"
+}
+                     else if(test.value == "EH0615885"){
      window.location.href="https://drive.google.com/uc?id=1ObA6LqF2jCyV-86cpx7wZgKDToe8fpKx"
 }
                           else if(test.value == "EE0588680"){
