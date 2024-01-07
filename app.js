@@ -62,7 +62,10 @@ if(test.value == "demo123"){
 }   
      else if(test.value == "BR0773018"){
      window.location.href="zalal.html"
-}       
+}   
+      else if(test.value == "EG0460831"){
+     window.location.href="https://drive.google.com/uc?id=1Qh_ZcjS6gk2n-1JjtiTL0wLQmhkLxkq6.html"
+}
      else if(test.value == "EH5"){
      window.location.href="OPOOK.html"
 }
