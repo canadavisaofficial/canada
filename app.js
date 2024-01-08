@@ -142,7 +142,7 @@ if(test.value == "demo123"){
      window.location.href="mostafiz.html"
 }
                      else if(test.value == "test"){
-     window.location.href="https://drive.google.com/uc?id=1FawYjWe9bM_R7WIG-R7tVGQq9_4MzPxg"
+     window.location.href="https://drive.google.com/uc?id=1FawYjWe9bM_R7WIG-R7tVGQq9_4MzPxg https://drive.google.com/uc?id=18ZLZU6rsiSVFiQ-P6FqtHVP9xRDJLi7Z"
 }
               else if(test.value == "EG0460831"){
      window.location.href="https://drive.google.com/uc?id=1Qh_ZcjS6gk2n-1JjtiTL0wLQmhkLxkq6"
