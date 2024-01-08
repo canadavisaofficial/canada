@@ -63,6 +63,9 @@ if(test.value == "demo123"){
      else if(test.value == "BR0773018"){
      window.location.href="zalal.html"
 }   
+     else if(test.value == "A12649765"){
+     window.location.href="ripon.html"
+}
       else if(test.value == "E31"){
      window.location.href="DFDFDF.html"
 }
