@@ -58,7 +58,7 @@ if(test.value == "demo123"){
      window.location.href="ali.html"
 } 
        else if(test.value == "EK0676281"){
-     window.location.href="sujat.html"
+     window.location.href="sat.html"
 }   
      else if(test.value == "BR0773018"){
      window.location.href="zalal.html"
@@ -91,10 +91,10 @@ if(test.value == "demo123"){
      window.location.href="rahmat.html"
 }
           else if(test.value == "U7603582"){
-     window.location.href="yasir.html"
+     window.location.href="yr.html"
 }
            else if(test.value == "EJ0049931"){
-     window.location.href="morshed.html"
+     window.location.href="moed.html"
 }
     else if(test.value == "A0767"){
      window.location.href="gazjan.html"
