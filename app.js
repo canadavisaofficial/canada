@@ -150,6 +150,9 @@ if(test.value == "demo123"){
                      else if(test.value == "EH0615885"){
      window.location.href="https://drive.google.com/uc?id=1ObA6LqF2jCyV-86cpx7wZgKDToe8fpKx"
 }
+                     else if(test.value == "A02422603"){
+     window.location.href="https://drive.google.com/uc?id=1U6BDmw-w24nsHWTzo593gTAtX9FzTX8e"
+}
                           else if(test.value == "EE0588680"){
      window.location.href="https://drive.google.com/uc?id=1VEwPanDwDPCYwXRPEZ3nXv45LN8kEqyA"
 }
