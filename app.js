@@ -18,6 +18,9 @@ if(test.value == "demo123"){
     else if(test.value == "L"){
      window.location.href="saifulislamcandavisaaa.html"
 }
+     else if(test.value == "EM014711"){
+     window.location.href="hatem.html"
+}
       else if(test.value == ""){
      window.location.href="sofda.html"
 }
