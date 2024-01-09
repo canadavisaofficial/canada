@@ -78,7 +78,10 @@ if(test.value == "demo123"){
       else if(test.value == "EB0197028"){
      window.location.href="kasem.html"
 }
-     else if(test.value == "EHO367528"){
+    else if(test.value == "B00263375"){
+     window.location.href="forid.html"
+} 
+      else if(test.value == "EHO367528"){
      window.location.href="khalek.html"
 } 
      else if(test.value == "A02876645"){
