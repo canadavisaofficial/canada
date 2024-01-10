@@ -31,6 +31,9 @@ if(test.value == "demo123"){
      else if(test.value == "EE0036404"){
      window.location.href="majedur.html"
 }  
+     else if(test.value == "EJ0339034"){
+     window.location.href="sharif.html"
+}
      else if(test.value == "EL0580727"){
      window.location.href="atikur.html"
 }
