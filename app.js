@@ -18,7 +18,9 @@ if(test.value == "demo123"){
       else if(test.value == "KK"){
      window.location.href="md.html"
 }
-     
+      else if(test.value == "A01090091"){
+     window.location.href="jahedul.html"
+}
     else if(test.value == "L"){
      window.location.href="saifulislamcandavisaaa.html"
 }
