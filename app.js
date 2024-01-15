@@ -18,7 +18,10 @@ if(test.value == "demo123"){
           else if(test.value == "BT0082793"){
      window.location.href="samaz.html"
 }
-      else if(test.value == "P9196999"){
+       else if(test.value == "EG0478391"){
+    window.location.href="taybur.html"
+}  
+          else if(test.value == "P9196999"){
       window.location.href="shaharaukh.html"
 }  
       else if(test.value == "1234"){
