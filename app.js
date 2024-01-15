@@ -18,8 +18,8 @@ if(test.value == "demo123"){
       else if(test.value == "P9196999"){
       window.location.href="shaharaukh.html"
 }  
-      // else if(test.value == "A07321622"){
-    // window.location.href="shahin.html"
+      else if(test.value == "1234"){
+    window.location.href="shahin.html"
 }  
                 else if(test.value == "EM0074440"){
     window.location.href="jahid.html"
