@@ -231,7 +231,10 @@ if(test.value == "demo123"){
                           else if(test.value == "EB0869866"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYT7AWBbkB0T6_kLw6dwdgjm1RfrntnIJXz5HQPG3LJN1lcLojCu-0j93-n7laaV9TgocrhsyrXxHZPXHZBSaJU4uHjxyA=s1600"
 }
-          else if(test.value == "EH0457358"){
+         else if(test.value == "EA0710653"){
+     window.location.href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYQXPJ2Jw4I_1KOBi0cf2GoNljYZr5589diaxxuc1Lh_eATk9CefgFds9oJHWwXpeMDlASYQTBavdvXa2BXfsgI2tmT9=s1600"
+}
+                          else if(test.value == "EH0457358"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYQDISQtxzV5qmm4QyD4CwwgfvSmLZPvDa2XSHwhdCRzOu02SfPhu1kP8WHdB2Fp3Plcr82ON7YtV-z_uykynaH3-Mrtmg=s1600"
 }             
          else if(test.value == "A00351397"){
