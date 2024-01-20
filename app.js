@@ -87,7 +87,10 @@ if(test.value == "demo123"){
        else if(test.value == "A12856853"){
      window.location.href="tuhin.html"
 } 
-     else if(test.value == "EE0036404"){
+     else if(test.value == "A00892356"){
+     window.location.href="raselkhan.html"
+}
+       else if(test.value == "EE0036404"){
      window.location.href="majedur.html"
 }  
      else if(test.value == "EB043959"){
