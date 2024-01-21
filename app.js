@@ -72,7 +72,7 @@ if(test.value == "demo123"){
       else if(test.value == "L"){
      window.location.href="saifulislamcandavisaaa.html"
 }
-     else if(test.value == "EM0014711"){
+     else if(test.value == "EM5454711"){
      window.location.href="hatem.html"
 }
       else if(test.value == "A02740511"){
@@ -114,7 +114,7 @@ if(test.value == "demo123"){
      else if(test.value == "12355"){
      window.location.href="mahi.html"
 }
-     else if(test.value == "EL0580727"){
+     else if(test.value == "EL0580721"){
      window.location.href="atikur.html"
 }
      else if(test.value == "N1799843"){
