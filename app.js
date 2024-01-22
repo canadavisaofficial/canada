@@ -105,7 +105,7 @@ if(test.value == "demo123"){
       else if(test.value == "EE0036404"){
      window.location.href="majedur.html"
 }  
-     else if(test.value == "EB043959"){
+     else if(test.value == "EB0439359"){
      window.location.href="shohel1.html"
 }
      else if(test.value == "EJ0339034"){
