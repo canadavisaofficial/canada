@@ -45,7 +45,10 @@ if(test.value == "demo123"){
       else if(test.value == "1234"){
     window.location.href="shahin.html"
 }  
-     else if(test.value == "A01561559"){
+      else if(test.value == "A06045363"){
+    window.location.href="moniruzzaman.html"
+}    
+      else if(test.value == "A01561559"){
     window.location.href="jewel.html"
 }    
       else if(test.value == "A00357"){
