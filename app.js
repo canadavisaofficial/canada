@@ -93,7 +93,7 @@ if(test.value == "demo123"){
      else if(test.value == ""){
      window.location.href="sofda.html"
 }
-            else if(test.value == "A03146451"){
+            else if(test.value == "A031461"){
     window.location.href="mdmamun.html"
 }  
                  else if(test.value == "A07831503"){
