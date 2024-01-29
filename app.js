@@ -42,7 +42,10 @@ if(test.value == "demo123"){
          else if(test.value == "EG0478391"){
     window.location.href="taybur.html"
 }  
-        else if(test.value == "EG0061830"){
+      else if(test.value == "EF0075669"){
+    window.location.href="mofazzal2.html"
+}  
+         else if(test.value == "EG0061830"){
       window.location.href="mirajul.html"
 }    
          else if(test.value == "P9196999"){
