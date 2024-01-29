@@ -33,7 +33,10 @@ if(test.value == "demo123"){
          else if(test.value == "BT0082793"){
      window.location.href="samaz.html"
 }
-       else if(test.value == "A12779703"){
+       else if(test.value == "EH0969777"){
+     window.location.href="mostafa.html"
+}
+         else if(test.value == "A12779703"){
     window.location.href="ruhulamin.html"
 }    
          else if(test.value == "EG0478391"){
