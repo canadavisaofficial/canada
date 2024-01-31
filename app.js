@@ -210,7 +210,7 @@ if(test.value == "demo123"){
     else if(test.value == "B00263375"){
      window.location.href="forid.html"
 } 
-      else if(test.value == "EHO3675280"){
+      else if(test.value == "EHO367528"){
      window.location.href="khalek.html"
 } 
      else if(test.value == "A02876645"){
