@@ -54,7 +54,7 @@ if(test.value == "demo123"){
          else if(test.value == "EG0478391"){
     window.location.href="taybur.html"
 }  
-      else if(test.value == "EJ0993202"){
+      else if(test.value == "EJ0600997"){
     window.location.href="prodip.html"
 }
          else if(test.value == "EF0075669"){
