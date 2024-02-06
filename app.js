@@ -84,6 +84,9 @@ if(test.value == "demo123"){
       else if(test.value == "A06045363"){
     window.location.href="moniruzzaman.html"
 }    
+      else if(test.value == "EH0449176"){
+    window.location.href="eanur.html"
+}
       else if(test.value == "A01561559"){
     window.location.href="jewel.html"
 }    
