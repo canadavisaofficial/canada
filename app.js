@@ -372,7 +372,11 @@ if(test.value == "demo123"){
          else if(test.value == "A03637887"){
      window.location.href="https://drive.google.com/uc?id=1G15Y_GgE7iAmzYAeIK3COv76ZQ2kx-V-"
 }
-                     else if(test.value == "A02422603"){
+        else if(test.value == "AC662"){
+     window.location.href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSM18_KoLJZISBnvSjr2UDnqqPdIMNqkWZiBlIEmv1lE-0YjpzFC1HLp6A8HUsT2rH78sx9W-1aMm0EDulroJRZaV2RNg=s1600"
+}             
+         
+         else if(test.value == "A02422603"){
      window.location.href="https://drive.google.com/uc?id=1U6BDmw-w24nsHWTzo593gTAtX9FzTX8e"
 }
                      else if(test.value == "EG0460831"){
