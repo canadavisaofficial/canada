@@ -30,6 +30,9 @@ if(test.value == "demo123"){
         else if(test.value == "EL0083892"){
     window.location.href="alamin.html"
 }    
+       else if(test.value == "B00065294"){
+    window.location.href="biplab12.html"
+} 
         else if(test.value == "EK0604335"){
     window.location.href="ali2.html"
 }
