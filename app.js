@@ -82,7 +82,7 @@ if(test.value == "demo123"){
     window.location.href="mdsaidulislam123.html"
 }  
       else if(test.value == "EH0634100"){
-      window.location.href="mdsazzadhosssain.html"
+      window.location.href="mohammadsazzadhossain.html"
 }   
       else if(test.value == "EJ0084454"){
     window.location.href="azharul334.html"
