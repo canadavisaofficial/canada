@@ -27,7 +27,7 @@ if(test.value == "demo123"){
         else if(test.value == "EA0334526"){
     window.location.href="babul.html"
 }
-        else if(test.value == "B00600976"){
+        else if(test.value == "B006009"){
      window.location.href="homiun.html"
 }
        else if(test.value == "EG0594873"){
@@ -240,7 +240,7 @@ if(test.value == "demo123"){
      else if(test.value == "EM5454711"){
      window.location.href="hatem.html"
 }
-      else if(test.value == "A02740511"){
+      else if(test.value == "A027405"){
     window.location.href="arshad.html"
 }  
            else if(test.value == "B00123442"){
