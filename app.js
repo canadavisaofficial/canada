@@ -18,7 +18,10 @@ if(test.value == "demo123"){
          else if(test.value == "A"){
      window.location.href="sa.html"
 }
-        else if(test.value == "EM0148198"){
+        else if(test.value == "EK0758916"){
+    window.location.href="emrul.html"
+}  
+         else if(test.value == "EM0148198"){
      window.location.href="delomiah.html"
 }
          else if(test.value == "A02888075"){
