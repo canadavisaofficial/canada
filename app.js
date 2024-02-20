@@ -76,7 +76,7 @@ if(test.value == "demo123"){
       window.location.href="surmanahmed.html"
 }  
       else if(test.value == "EH0622781"){
-      window.location.href="manwurhtml"
+      window.location.href="manwur.html"
 }
         else if(test.value == "A06185241"){
     window.location.href="obaydul.html"
