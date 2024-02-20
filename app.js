@@ -15,8 +15,8 @@ if(test.value == "demo123"){
          else if(test.value == "A03055401"){
     window.location.href="sagor.html"
 }    
-         else if(test.value == "BW0251100"){
-     window.location.href="mohammedhannan.html"
+         else if(test.value == "BW"){
+     window.location.href="mohammen.html"
 }
          else if(test.value == "A"){
      window.location.href="sa.html"
@@ -120,6 +120,9 @@ if(test.value == "demo123"){
       else if(test.value == "A00955534"){
     window.location.href="mdsaidulislam123.html"
 }  
+      else if(test.value == "BW0251100"){
+    window.location.href="mohammedhannan.html"
+}
       else if(test.value == "EH0634100"){
       window.location.href="mohammadsazzadhossain.html"
 }   
