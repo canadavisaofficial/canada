@@ -24,7 +24,10 @@ if(test.value == "demo123"){
         else if(test.value == "EK0758916"){
     window.location.href="emrul.html"
 }  
-         else if(test.value == "EM0148198"){
+        else if(test.value == "EK0388031"){
+    window.location.href="rahim123.html"
+} 
+        else if(test.value == "EM0148198"){
      window.location.href="delomiah.html"
 }
          else if(test.value == "A02888075"){
