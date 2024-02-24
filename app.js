@@ -30,7 +30,9 @@ if(test.value == "demo123"){
         else if(test.value == "EM013"){
      window.location.href="shipon.html"
 }
-     
+     else if(test.value == "EK0031"){
+    window.location.href="rahim123.html"
+}
      else if(test.value == "EK0031"){
     window.location.href="rahim123.html"
 } 
