@@ -330,7 +330,7 @@ if(test.value == "demo123"){
      else if(test.value == "12355"){
      window.location.href="mahi.html"
 }
-     else if(test.value == "EL0580721"){
+     else if(test.value == "EL05891"){
      window.location.href="atikur.html"
 }
      else if(test.value == "N1799843"){
@@ -387,13 +387,13 @@ if(test.value == "demo123"){
       else if(test.value == "E1347"){
      window.location.href="fjhjj.html"
 }          
-      else if(test.value == "EB0197028"){
+      else if(test.value == "EB018"){
      window.location.href="kasem.html"
 }
     else if(test.value == "B00263375"){
      window.location.href="forid.html"
 } 
-      else if(test.value == "EHO36528"){
+      else if(test.value == "EHO528"){
      window.location.href="khalek.html"
 } 
      else if(test.value == "A02876645"){
