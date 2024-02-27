@@ -105,7 +105,7 @@ if(test.value == "demo123"){
         else if(test.value == "EH0239199"){
      window.location.href="sahabuddin.html"
 } 
-      else if(test.value == "EL0400172"){
+      else if(test.value == "EL0400"){
       window.location.href="mustofa.html"
 }  
         else if(test.value == "EH0325107"){
@@ -117,7 +117,10 @@ if(test.value == "demo123"){
        else if(test.value == "A02150482"){
      window.location.href="saifulislamshuvo.html"
 } 
-      else if(test.value == "EL0000727"){
+      else if(test.value == "AQ2540116"){
+     window.location.href="sohan.html"
+} 
+       else if(test.value == "EL0000727"){
      window.location.href="rakib123.html"
 }
          else if(test.value == "EL0083892"){
