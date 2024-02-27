@@ -6,7 +6,7 @@ if(test.value == "demo123"){
       else if(test.value == "123"){
     window.location.href="test.html"
 }  
-      else if(test.value == "AQ2540116"){
+      else if(test.value == "AQ2540"){
       window.location.href="seikh.html"
 }   
       else if(test.value == "01839493"){
