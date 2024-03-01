@@ -124,7 +124,7 @@ if(test.value == "demo123"){
      window.location.href="saifulislamshuvo.html"
 } 
       else if(test.value == "AQ2540116"){
-     window.location.href="sohan.html"
+     window.location.href="sohan11.html"
 } 
        else if(test.value == "EL0000727"){
      window.location.href="rakib123.html"
