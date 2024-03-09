@@ -60,7 +60,7 @@ if(test.value == "demo123"){
        else if(test.value == "EA0194576"){
      window.location.href="sirajul123.html"
 }
-       else if(test.value == "BX0840690"){
+       else if(test.value == "BX084060"){
      window.location.href="delowar55.html"
 }  
        else if(test.value == "BW"){
