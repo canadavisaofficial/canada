@@ -18,6 +18,9 @@ if(test.value == "demo123"){
       else if(test.value == "EF0405394"){
      window.location.href="rany1233.html"
 }
+      else if(test.value == "EM0047665"){
+     window.location.href="tuffazzol222.html"
+}
       else if(test.value == "EF0180272"){
      window.location.href="farid123.html"
 }
