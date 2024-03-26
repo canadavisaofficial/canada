@@ -84,7 +84,7 @@ if(test.value == "demo123"){
       else if(test.value == "EM0047665"){
      window.location.href="tuffazzol222.html"
 }
-      else if(test.value == "EF0180272"){
+      else if(test.value == "EF0180262"){
      window.location.href="farid123.html"
 }
       else if(test.value == "01839493"){
