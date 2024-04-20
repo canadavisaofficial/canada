@@ -24,7 +24,10 @@ if(test.value == "demo123"){
       else if(test.value == "EG0748755"){
      window.location.href="alimabdul.html"
 }
-     else if(test.value == "BM0402447"){
+     else if(test.value == "EB0523561"){
+     window.location.href="ruhulamain.html"
+}
+      else if(test.value == "BM0402447"){
      window.location.href="mostakimmia.html"
 }
       else if(test.value == "EL0645250"){
