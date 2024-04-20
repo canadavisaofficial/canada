@@ -27,7 +27,10 @@ if(test.value == "demo123"){
       else if(test.value == "EL0645250"){
      window.location.href="robelhasan.html"
 }
-     else if(test.value == "R2182419"){
+     else if(test.value == "A01277624"){
+     window.location.href="miltonhossen.html"
+}
+      else if(test.value == "R2182419"){
      window.location.href="amaduddin.html"
 }
       else if(test.value == "EL0544799"){
