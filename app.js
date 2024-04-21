@@ -28,7 +28,7 @@ if(test.value == "demo123"){
      window.location.href="ruhulamain.html"
 }
      else if(test.value == "A00635550"){
-     window.location.href="nazmul.html.html"
+     window.location.href="nazmul.html"
 }
      else if(test.value == "BM0402447"){
      window.location.href="mostakimmia.html"
