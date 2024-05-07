@@ -25,7 +25,7 @@ if(test.value == "demo123"){
       window.location.href="abdurrahim11223.html"
 }
       else if(test.value == "EK0038975"){
-      window.location.href="abulkasem.html"
+      window.location.href="abulkasem11.html"
 }
       else if(test.value == "EE0259764"){
       window.location.href="uazzalmiah123.html"
