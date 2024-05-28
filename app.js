@@ -925,6 +925,9 @@ if(test.value == "demo123"){
         else if(test.value == "A08317619"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRLm527TTtojht9SxG9pABr7ruXJLVHSVh4zbJxxQ67d62QcM_rb0YgtUe6C2LD9pmMYetNrZL7ZGfh2F8GgycpWX3T=s1600"
 }
+        else if(test.value == "A03467185"){
+     window.location.href="https://lh3.googleusercontent.com/drive-viewer/AKGpiha7a_713G22AdrP9Va5To48TstBxuMu_PacTyvrlUjatVMSxOJv3ZXx4YNhytV9_kDpkJmiGmJF8r7mqdpVjBg6snld_kCi-bQ=s1600-rw-v1"
+}
         else if(test.value == "A07302589"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTTb5VfOEIw75o0VqZRiaicPgrVnqf-dOqez3KXziVujeJfSi9jHZ1JEXOyyVAXmX5qpVGz_FB6g88qUW8IEPQPMOSHtw=s1600"
 }
