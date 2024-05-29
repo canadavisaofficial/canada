@@ -922,7 +922,10 @@ if(test.value == "demo123"){
      else if(test.value == "EK00204"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AKGpihbzt9UDWfMC7bI8RjkfD4VKd-c_lxhnFQt_m43ToBUJAU2UAl2nEbaiT7iL0s5WpvZF8JjL6wlawbFI3JHSy3_gOdebGTttpw=s1600-rw-v1"
 }
-        else if(test.value == "A08317619"){
+     else if(test.value == "U3883991"){
+     window.location.href="https://lh3.googleusercontent.com/drive-viewer/AKGpihbwTmUnInDmsAYvfkaMvcDWQSe8FmJ6L22-NVrXbuaN9dkmd6tLsLe9CYOIXlScTse5pTnoBVSwqVAOooIPdiLIAKCgk5u7DDw=s1600-rw-v1"
+}   
+     else if(test.value == "A08317619"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYRLm527TTtojht9SxG9pABr7ruXJLVHSVh4zbJxxQ67d62QcM_rb0YgtUe6C2LD9pmMYetNrZL7ZGfh2F8GgycpWX3T=s1600"
 }
         else if(test.value == "A03467185"){
