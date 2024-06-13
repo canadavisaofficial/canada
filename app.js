@@ -6,7 +6,7 @@ if(test.value == "demo123"){
       else if(test.value == "123"){
     window.location.href="test.html"
 }  
-      lse if(test.value == "EJ0529970"){
+      else if(test.value == "EJ0529970"){
      window.location.href="azizurrahman.html"
 } 
       else if(test.value == "A13356504"){
