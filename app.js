@@ -1054,7 +1054,10 @@ if(test.value == "demo123"){
                      else if(test.value == "A2603"){
      window.location.href="https://drive.google.com/uc?id=1U6BDmw-w24ne"
 }
-                          else if(test.value == "EE0588680"){
+                     else if(test.value == "EK0450400"){
+     window.location.href="https://drive.google.com/uc?export=download&id=1ITnX7YXiwm9exje_S3-3eb6_gUnQFhso"
+}     
+                     else if(test.value == "EE0588680"){
      window.location.href="https://drive.google.com/uc?id=1VEwPanDwDPCYwXRPEZ3nXv45LN8kEqyA"
 }
         else if(test.value == "EL0195783"){
