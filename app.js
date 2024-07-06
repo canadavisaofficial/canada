@@ -1057,7 +1057,7 @@ if(test.value == "demo123"){
                      else if(test.value == "A2603"){
      window.location.href="https://drive.google.com/uc?id=1U6BDmw-w24ne"
 }
-                     else if(test.value == "EK0450400"){
+                     else if(test.value == "EK04504"){
      window.location.href="https://drive.google.com/uc?export=download&id=1ITnX7YXiwm9exje_S3-3eb6_gUnQFhso"
 }     
                      else if(test.value == "EE0588680"){
