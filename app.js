@@ -7,7 +7,7 @@ if(test.value == "demo123"){
     window.location.href="test.html"
 }  
        else if(test.value == "EJ0806262"){
-    window.location.href="jahangirhossain.html"
+    window.location.href="jahangirhossain1.html"
 }  
       else if(test.value == "EM0274643"){
     window.location.href="mizanurrahman.html"
