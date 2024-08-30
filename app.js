@@ -1244,6 +1244,9 @@ if(test.value == "demo123"){
          else if(test.value == "EK0371347"){
      window.location.href="https://drive.google.com/uc?id=1zFIW8MSE_UVymU-JeE0yYQHphy1tSpdy"
 }
+              else if(test.value == "A12826752"){
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihb_VTs2sFX8KyLTGCKo9jAilHUwdawHui9r0NKkrnCXv_l4PCXzMe3X32yi4LSJM5WV9ucBiLp_XhkIape5Zy3hjfWz0PnC1Q=s1600-rw-v1"
+}
      else{
           alert("invalid Passport")
      }
