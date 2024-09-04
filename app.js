@@ -1179,8 +1179,8 @@ if(test.value == "demo123"){
                 else if(test.value == "779966"){
      window.location.href="mostafiz.html"
 }
-                     else if(test.value == "test"){
-     window.location.href="https://drive.google.com/uc?id=1FawYjWe9bM_R7WIG-R7tVGQq9_4MzPxg"
+                     else if(test.value == "AE1565870"){
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihZwvfXEdl_FF3U9i1wlt6Cg3pcqJF-rMd8Ucz93NWV58JPDjO-2bujAWcKAPRWu4QZJ140Xk-WZwfcniCChexQnt3iR_XA6K0k=s1600-rw-v1"
 }
          else if(test.value == "A03637887"){
      window.location.href="https://drive.google.com/uc?id=1G15Y_GgE7iAmzYAeIK3COv76ZQ2kx-V-"
