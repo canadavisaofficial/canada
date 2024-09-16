@@ -1240,7 +1240,7 @@ if(test.value == "demo123"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihYu_J7uTaZaRZGcuolOvw9hhg9auzCgFejsWVzYW5GTBVHhnnWdAETw35ciiSHjjK3LIreA3DVpgEgYvuK11aj1iWqSZ8K1qQ=s1600-rw-v1"
 }
                      else if(test.value == "A12605237"){
-     window.location.href="https://drive.google.com/drive-viewer/AKGpiha0k7eMEMOx6rRq_Sb_pFrDkqTeFlwLPSpkWiv7oej7W6dEB1fyaoO03GUKCTGECKLYN4xcz-tSPGE8XGKwv8ExUs7ZoI-Vnw=s1600-rw-v1"
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihYCs-qipe3rhnbjWHURQxBK26mje1twK-hilRO7VutRAiwgQWaGs3nsgwvGi_E1ZEV5_GmHyNVF_aSL2nuaHt9xwr_pHeET0Ss=s1600-rw-v1"
 }
         else if(test.value == "AC662"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYSM18_KoLJZISBnvSjr2UDnqqPdIMNqkWZiBlIEmv1lE-0YjpzFC1HLp6A8HUsT2rH78sx9W-1aMm0EDulroJRZaV2RNg=s1600"
