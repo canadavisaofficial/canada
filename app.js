@@ -6,10 +6,13 @@ if(test.value == "demo123"){
       else if(test.value == "123"){
     window.location.href="test.html"
 }  
-       else if(test.value == "S9785795"){
-    window.location.href="nityanansa.html"
+       else if(test.value == "A02658644"){
+    window.location.href="mdshahidulislam.html"
 }  
-      else if(test.value == "A12392027"){
+      else if(test.value == "S9785795"){
+    window.location.href="nityanansa.html"
+}
+       else if(test.value == "A12392027"){
     window.location.href="mdsoyfalsheikh.html"
 }  
       else if(test.value == "A02422470"){
