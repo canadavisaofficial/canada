@@ -9,8 +9,8 @@ if(test.value == "demo123"){
        else if(test.value == "A02658644"){
     window.location.href="mdshahidulislam.html"
 }  
-      else if(test.value == "A02658644"){
-    window.location.href="mdshahidulislam.html"
+      else if(test.value == "A026586"){
+    window.location.href="mdshahidulism.html"
 }
        else if(test.value == "A15169471"){
     window.location.href="mdshadathossain.html"
@@ -1417,8 +1417,8 @@ if(test.value == "demo123"){
                      else if(test.value == "EE0588680"){
      window.location.href="https://drive.google.com/uc?id=1VEwPanDwDPCYwXRPEZ3nXv45LN8kEqyA"
 }
-        else if(test.value == "A14404836"){
-     window.location.href="https://drive.google.com/drive-viewer/AKGpihYMoShDaKlMpW1XrFan9iL5T8W3Qtdn7sikYLLxOsFG2tgcVQwl0xh_LstYIjeEqaxUq6j-d8AOj3kwkM701DsjUoeQbcp_iEg=s1600-rw-v1"
+        else if(test.value == "A137300853"){
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihb3_DYbkGItXjQA0HK-R8LgypwAXiBoDvUSuYm9ZPDd2zleCcR_QvPwv3nI9DUuk5BrMP0MCRD1152c7t3tlAnecRV9oiEcmak=s1600-rw-v1"
 }
      else if(test.value == "EK00204"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AKGpihbzt9UDWfMC7bI8RjkfD4VKd-c_lxhnFQt_m43ToBUJAU2UAl2nEbaiT7iL0s5WpvZF8JjL6wlawbFI3JHSy3_gOdebGTttpw=s1600-rw-v1"
