@@ -15,8 +15,8 @@ if(test.value == "demo123"){
        else if(test.value == "A026586"){
     window.location.href="mdshahidulism.html"
 }
-       else if(test.value == "A04570850"){
-    window.location.href="sujonahhmedddd.html"
+       else if(test.value == "A04"){
+    window.location.href="sujonah.html"
 }
        else if(test.value == "A15169471"){
     window.location.href="mdshadathossain.html"
