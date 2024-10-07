@@ -9,11 +9,14 @@ if(test.value == "demo123"){
        else if(test.value == "A02658644"){
     window.location.href="mdshahidulislam.html"
 }  
-      else if(test.value == "A04570850"){
-    window.location.href="sujonahhmed.html"
+      else if(test.value == "A045708"){
+    window.location.href="sujonahhm.html"
 }
        else if(test.value == "A026586"){
     window.location.href="mdshahidulism.html"
+}
+       else if(test.value == "A04570850"){
+    window.location.href="sujonahhmed.html"
 }
        else if(test.value == "A15169471"){
     window.location.href="mdshadathossain.html"
