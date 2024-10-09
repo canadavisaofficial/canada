@@ -9,7 +9,10 @@ if(test.value == "demo123"){
        else if(test.value == "A02658644"){
     window.location.href="mdshahidulislam.html"
 }  
-      else if(test.value == "A05392476"){
+      else if(test.value == "A11790703"){
+    window.location.href="miaaaaj.html"
+}
+       else if(test.value == "A05392476"){
     window.location.href="nasirrrudddin.html"
 }
        else if(test.value == "EL0012882"){
