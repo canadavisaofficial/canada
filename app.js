@@ -1641,7 +1641,7 @@ if(test.value == "demo123"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihap4D0SL9tR3ttqpMdMsrB0xdpCTfA68eSIG5TdFGPQvvzfC73c1JZHDPUL5wyNtKD9YlHt8r1sEL30Jy6BG42Y5SYGOLuiKw=s1600-rw-v1"
 }   
          else if(test.value == "EK0484613"){
-     window.location.href="https://drive.google.com/drive-viewer/AKGpihaFg7tyEjeo2rys7nXPSLR_dnEPu5_BN3EMOziSsMubUXr9XkgwC14GXHzM1DkPi791miAYgZSj_gbQt2725AYV530JOG8bNpA=s1600-rw-v1"
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihZGLRf0qBksmfaFCRHNv3ZQfRN48dyACB-Ewu_LPiCScFec8sjihcSIaFj4e1M2BPV3c2jtkP0eYrJo2wty1A4H07-7fHY7KEA=s1600-rw-v1"
 }
                else if(test.value == "A05330815"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AKGpiha7lQM_kbxBfhSn_RDEPkrFjToHeP2pywsyAM5hyfZeSe0V_jDbYRMm-397k8q9Mcw8txFU9CHjBTDWKKnh0YoqBQrJ0c88Slg=s1600-rw-v1"
