@@ -1600,7 +1600,7 @@ if(test.value == "demo123"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihaiS3Tm8EilM7p5LR54o5COi4XxBXtJQpmUMUwCD_Rrus5CUHAlXV4y9eERgV6nDR7om-X7JTUpIqygVtjDtUX5YB_ZgzfX4DU=s1600-rw-v1"
 }
          else if(test.value == "A16255510"){
-     window.location.href="https://drive.google.com/drive-viewer/AKGpihbDfowXyQkExPESoapCz1TW7prylTe2uuxm9FnslJfZtZ-WtPzKR_EkMIojqhu_Qz_FcElkEI6yRrhscV9w-JYI6_3Yu6AHSFI=s1600-rw-v1"
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihYFp2BivLxa7q3AtVa8Zw7Gl5qqEf-EKuL4COxptc3JfpAbe2VHDIZ0xKuxezkNZxGXGw_eGQ1Dw4U-TlIs5EfGFlXjP-_53Qc=s1600-rw-v1"
 }
                      else if(test.value == "A12685408"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihZyFT_r55wY9p0cz5qlvMqXZRFj7KSBy2BTHQ7LbYFL5-ku96M98jnDqGn5udrcteY5-AH5e8KcYcIP6OHdKeVt6QbLjaOPm3E=s1600-rw-v1"
@@ -1683,15 +1683,15 @@ if(test.value == "demo123"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYQDISQtxzV5qmm4QyD4CwwgfvSmLZPvDa2XSHwhdCRzOu02SfPhu1kP8WHdB2Fp3Plcr82ON7YtV-z_uykynaH3-Mrtmg=s1600"
 }             
          else if(test.value == "AD7195634"){
-     window.location.href="https://drive.google.com/drive-viewer/AKGpihap4D0SL9tR3ttqpMdMsrB0xdpCTfA68eSIG5TdFGPQvvzfC73c1JZHDPUL5wyNtKD9YlHt8r1sEL30Jy6BG42Y5SYGOLuiKw=s1600-rw-v1"
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihayEZnCmhpkSmeo5CWzdhESMz7q9D5VcspKND0bdUwKsAgY7H1Xa8A9rn877L0iSo7WxqhDgpDP6ywwARhD2k08L2P06fhcpw=s1600-rw-v1"
 }   
          else if(test.value == "EK0484613"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihZGLRf0qBksmfaFCRHNv3ZQfRN48dyACB-Ewu_LPiCScFec8sjihcSIaFj4e1M2BPV3c2jtkP0eYrJo2wty1A4H07-7fHY7KEA=s1600-rw-v1"
 }
-               else if(test.value == "A05330815"){
+               else if(test.value == "A05330"){
      window.location.href="https://lh3.googleusercontent.com/drive-viewer/AKGpiha7lQM_kbxBfhSn_RDEPkrFjToHeP2pywsyAM5hyfZeSe0V_jDbYRMm-397k8q9Mcw8txFU9CHjBTDWKKnh0YoqBQrJ0c88Slg=s1600-rw-v1"
 }
-         else if(test.value == "AD7195634"){
+         else if(test.value == "AD34"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihayEZnCmhpkSmeo5CWzdhESMz7q9D5VcspKND0bdUwKsAgY7H1Xa8A9rn877L0iSo7WxqhDgpDP6ywwARhD2k08L2P06fhcpw=s1600-rw-v1"
 }
               else if(test.value == "A12826752"){
