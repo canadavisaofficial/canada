@@ -1688,8 +1688,8 @@ if(test.value == "demo123"){
          else if(test.value == "EK0484613"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihZGLRf0qBksmfaFCRHNv3ZQfRN48dyACB-Ewu_LPiCScFec8sjihcSIaFj4e1M2BPV3c2jtkP0eYrJo2wty1A4H07-7fHY7KEA=s1600-rw-v1"
 }
-               else if(test.value == "A05330"){
-     window.location.href="https://lh3.googleusercontent.com/drive-viewer/AKGpiha7lQM_kbxBfhSn_RDEPkrFjToHeP2pywsyAM5hyfZeSe0V_jDbYRMm-397k8q9Mcw8txFU9CHjBTDWKKnh0YoqBQrJ0c88Slg=s1600-rw-v1"
+               else if(test.value == "A11722573"){
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihZxA7PAIJD16EasOhPaN4f3DfrVPeyQwtqKKxNOUCxq6PpXF_u8TcWMzgb_AgfCNogSeHyyD7_kzx5B4jteJKwXsdY_rRb34gU=s1600-rw-v1"
 }
          else if(test.value == "A07030617"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihYyqhBUW98SIyp10XTOGRdjtPOAAZDEOE_YBG_weJRt_Op7NaAmZRo0Hnh2cbjt652VlfSsZY_8xvrjs069PU7PfNb5RwUrHUg=s1600-rw-v1"
