@@ -1647,11 +1647,11 @@ if(test.value == "demo123"){
                 else if(test.value == "779966"){
      window.location.href="mostafiz.html"
 }
-                     else if(test.value == "A03914812"){
-     window.location.href="https://drive.google.com/drive-viewer/AKGpihaiS3Tm8EilM7p5LR54o5COi4XxBXtJQpmUMUwCD_Rrus5CUHAlXV4y9eERgV6nDR7om-X7JTUpIqygVtjDtUX5YB_ZgzfX4DU=s1600-rw-v1"
+                     else if(test.value == "A11722203"){
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihbzgxaswsVFZgJBKpm7nZMtAAPfl0D0Ebw14ZrVGm8po2_4IuRd0rZcCW-aYsezUCbSCFsogCK0HCOGoBOcO8Aft3mArCKaTfo=s1600-rw-v1"
 }
-         else if(test.value == "A16255510"){
-     window.location.href="https://drive.google.com/drive-viewer/AKGpihYFp2BivLxa7q3AtVa8Zw7Gl5qqEf-EKuL4COxptc3JfpAbe2VHDIZ0xKuxezkNZxGXGw_eGQ1Dw4U-TlIs5EfGFlXjP-_53Qc=s1600-rw-v1"
+         else if(test.value == "B00854538"){
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihZDhufDtCaDgTaWMgXmP9Kya45Dp5c5sRQUcv01QuyvwZ-VDvogmHuROK2Zz-vTMDYwtbE5lqUDZtdkt5NmCEJNmR_Ae44xHCQ=s1600-rw-v1"
 }
                      else if(test.value == "A12685408"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihZyFT_r55wY9p0cz5qlvMqXZRFj7KSBy2BTHQ7LbYFL5-ku96M98jnDqGn5udrcteY5-AH5e8KcYcIP6OHdKeVt6QbLjaOPm3E=s1600-rw-v1"
