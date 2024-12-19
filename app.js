@@ -1778,8 +1778,8 @@ if(test.value == "demo123"){
          else if(test.value == "A16700003"){
      window.location.href="https://drive.google.com/file/d/1hIjI6jxS-ibAtVtgRYB0n5ZKRO7buajl/view?usp=sharing"
 }
-              else if(test.value == "BC0663093"){
-     window.location.href="https://drive.google.com/drive-viewer/AKGpihaQcVm5Bs-b1Z_NqcBGt-fbFaxYm3w2UZsc1Vjc-BMDX7id_BYeT7G-hVSprtORGoA8wUczoo8ongOKPsYo3u9Cda9fF38OT08=s1600-rw-v1"
+              else if(test.value == "A00325842"){
+     window.location.href="https://drive.google.com/drive-viewer/AKGpihY47wSWnE_V_g9HXZKzDXCqhzBlJAiIdUZrPjzPkEi8O9Fgv3gENMoVAIVrIH4LltxARdwMfrgDNf9M6ANpQHW9Ygsb3r4dYAE=s1600-rw-v1"
 }
      else{
           alert("invalid Passport")
