@@ -1730,7 +1730,7 @@ if(test.value == "demo123"){
      window.location.href="https://drive.google.com/uc?id=1U6BDmw-w24ne"
 }
                      else if(test.value == "BC0663093"){
-     window.location.href="https://drive.google.com/file/d/1xPRG-D9sALvPNdUd4v6LBIrXOgIk0173/view?usp=sharing"
+     window.location.href="https://drive.google.com/file/d/1AhYjYRo0txbjVUD8THwZlGVqjl7THOMM/view?usp=sharing"
 }     
                      else if(test.value == "EE0588680"){
      window.location.href="https://drive.google.com/uc?id=1VEwPanDwDPCYwXRPEZ3nXv45LN8kEqyA"
