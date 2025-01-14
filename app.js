@@ -1793,8 +1793,8 @@ if(test.value == "demo123"){
          else if(test.value == "EK0484613"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihZGLRf0qBksmfaFCRHNv3ZQfRN48dyACB-Ewu_LPiCScFec8sjihcSIaFj4e1M2BPV3c2jtkP0eYrJo2wty1A4H07-7fHY7KEA=s1600-rw-v1"
 }
-               else if(test.value == "A11722573"){
-     window.location.href="https://drive.google.com/drive-viewer/AKGpihZxA7PAIJD16EasOhPaN4f3DfrVPeyQwtqKKxNOUCxq6PpXF_u8TcWMzgb_AgfCNogSeHyyD7_kzx5B4jteJKwXsdY_rRb34gU=s1600-rw-v1"
+               else if(test.value == "A00586157"){
+     window.location.href="https://drive.google.com/file/d/1fMrNWbm5d1fN7J7Kusw82eqvITZ2BLcM/view?usp=sharing"
 }
          else if(test.value == "A02181248"){
      window.location.href="https://drive.google.com/file/d/1YSDSg1HITmUywyuYPfP9uM3sKXcMX7mz/view?usp=sharing"
