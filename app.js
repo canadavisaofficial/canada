@@ -1838,8 +1838,8 @@ if(test.value == "demo123"){
          else if(test.value == "EH003"){
      window.location.href="https://drive.google.com/file/d/1oP5K4kGUCDxKN4ajZf5u8DbYc9H61wY7/view?usp=sharing"
 }
-              else if(test.value == "A05710300"){
-     window.location.href="https://drive.google.com/file/d/19eNmFOM8xf1gOLl4upOfe0Czc2qM52b6/view?usp=sharing"
+              else if(test.value == "B00352275"){
+     window.location.href="https://drive.google.com/file/d/1t9krOxb5WZCdgL1YGlfdr35MPBfKoNHK/view?usp=sharing"
 }
      else{
           alert("invalid Passport")
