@@ -1838,7 +1838,7 @@ if(test.value == "demo123"){
          else if(test.value == "EH003"){
      window.location.href="https://drive.google.com/file/d/1oP5K4kGUCDxKN4ajZf5u8DbYc9H61wY7/view?usp=sharing"
 }
-              else if(test.value == "B00352275"){
+              else if(test.value == "B00355"){
      window.location.href="https://drive.google.com/file/d/1t9krOxb5WZCdgL1YGlfdr35MPBfKoNHK/view?usp=sharing"
 }
      else{
