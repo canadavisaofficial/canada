@@ -9,7 +9,10 @@ if(test.value == "demo123"){
        else if(test.value == "A03612644"){
     window.location.href="mdsadikur.html"
 }   
-      else if(test.value == "A12025228"){
+      else if(test.value == "A19807402"){
+    window.location.href="tanmoy.html"
+}
+       else if(test.value == "A12025228"){
     window.location.href="koyyyyres.html"
 }
        else if(test.value == "EK0960062"){
@@ -1918,6 +1921,7 @@ if(test.value == "demo123"){
      }
 
           }
+
 
 
 
