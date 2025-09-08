@@ -12,6 +12,9 @@ if(test.value == "demo123"){
        else if(test.value == "A16123815"){
     window.location.href="mdraselmiya.html"
 }
+       else if(test.value == "A06705149"){
+    window.location.href="mdselliml.html"
+}
        else if(test.value == "A16786614"){
     window.location.href="parvejj.html"
 }
@@ -1927,6 +1930,7 @@ if(test.value == "demo123"){
      }
 
           }
+
 
 
 
