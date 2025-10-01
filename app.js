@@ -1885,7 +1885,10 @@ if(test.value == "demo123"){
         else if(test.value == "A137300853"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihb3_DYbkGItXjQA0HK-R8LgypwAXiBoDvUSuYm9ZPDd2zleCcR_QvPwv3nI9DUuk5BrMP0MCRD1152c7t3tlAnecRV9oiEcmak=s1600-rw-v1"
 }
-     else if(test.value == "EL0520357"){
+     else if(test.value == "A19830057"){
+     window.location.href="https://drive.google.com/file/d/1st-QPgvolGHRBlHRVyYigpyxaypQzyYg/view?usp=sharing"
+}
+        else if(test.value == "EL0520357"){
      window.location.href="https://drive.google.com/drive-viewer/AKGpihabfXPRaVoXPmUtb0i1ayInKai15_MaekZ6kYda8TwODNsPa4VEp_-sy_6fjU2Io7LgA3he5hr9dOvFDOZTd-XeiOToAaiK7g=s1600-rw-v1"
 }
      else if(test.value == "U3883991"){
@@ -1951,6 +1954,7 @@ if(test.value == "demo123"){
      }
 
           }
+
 
 
 
